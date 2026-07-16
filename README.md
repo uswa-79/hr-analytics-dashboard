@@ -21,7 +21,7 @@ Conditional Formatting
 Excel Formulas
 Preview
 
-(Add your dashboard screenshot here.)
+![HR Dashboard](dashboard-overview.png)
 
 Project Files
 HR Analytics Dashboard.xlsx
