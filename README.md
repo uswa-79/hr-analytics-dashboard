@@ -4,7 +4,7 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employ
 
 # HR Analytics Dashboard
 ## Dashboard Preview
-![HR Analytics Dashboard](dashboard-overview.png)
+![HR Analytics Dashboard](preview.png)
 
 ## Dashboard Features
 
